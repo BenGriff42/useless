@@ -3,7 +3,7 @@ Type: Package
 Title: A useless package
 Version: 0.1.0
 Author: Ben 
-Maintainer: zp21899@bristol.ac.uk
+Maintainer: Ben Griffiths <ben.griffiths@bristol.ac.uk>
 Description: A collection of useless functions.
 License: What license is it under?
 Encoding: UTF-8
